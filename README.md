@@ -1,5 +1,8 @@
 ### Hi there 👋
-`(() => {solving.problems(👨‍💻)})();`
+```javascript
+(() => {solving.problems(👨‍💻)})();
+```
+
 Check out my portfolio **[here](https://mikacinc.github.io/portfolio/)**.
 
 <!--
