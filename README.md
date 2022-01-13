@@ -1,9 +1,9 @@
-### Hi there 👋
+###👋
 ```javascript
 (() => {solving.problems(👨‍💻)})();
 ```
 
-Check out my portfolio **[here](https://mikacinc.github.io/portfolio/)**.
+🔎 Check out my portfolio **[here](https://mikacinc.github.io/portfolio/)**.
 
 <!--
 **MikaCinc/MikaCinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
